@@ -1,0 +1,1 @@
+# Prediction-of-daown-syndrome-using-svm-model
